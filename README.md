@@ -37,7 +37,8 @@ Abhilash
 Lenin (C)
 Suralal
 Chandu
-Deepak
+Deepak,
+Jishnu
 
 # Game master / Designer / Referee
 Faiz
